@@ -32,7 +32,7 @@
 # 🚀 How to Run
 # ----------------------------------------------
 # 1. Clone the repository:
-#    git clone https://github.com/your-username/pragmatask.git
+#    git clone  https://github.com/namanagarwal1470/pragmatask.git
 #    cd pragmatask
 #
 # 2. Create a virtual environment and activate it:
